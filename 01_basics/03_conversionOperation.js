@@ -19,3 +19,6 @@ console.log("1"+2);
 console.log(1+"2");
 console.log("1"+2+2);
 console.log(1+2+"2");
+
+
+//=== it checks value and datatype both
